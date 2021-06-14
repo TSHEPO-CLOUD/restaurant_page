@@ -28,11 +28,11 @@ const setElementValues  = () => {
  contactTitle.textContent = 'Phone';
  addressTitle.textContent = 'Address';
 
- contactText.textContent = '123-456789';
- addressText.textContent = '123 road the world';
+ contactText.textContent = '018-388-2178';
+ addressText.textContent = '278 road hungry ave';
 
  mailTitle.textContent = 'Mail Address';
- mailText.textContent = 'fake@gmal.com';
+ mailText.textContent = 'david@gemal.com';
 };
 
 const loadFunc = function(main) {
