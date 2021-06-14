@@ -1,12 +1,14 @@
 {
   "name": "restaurant_page",
   "version": "1.0.0",
-  "description": "",
+  "description": "Javascript restaurant page using webpack",
   "main": "index.js",
   "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack",
+    "lint": "eslint ",
+    "lint:fix": "eslint --fix --ext .js,.jsx ."
   },
   "repository": {
     "type": "git",
