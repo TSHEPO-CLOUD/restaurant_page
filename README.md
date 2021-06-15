@@ -24,7 +24,7 @@ The project is about the use of Webpack and the implementation of parkage.json.
 2. Copy and paste the following code into the Terminal to clone it: git clone https://github.com/TSHEPO-CLOUD/restaurant_page/tree/feature-branch
 3. ```cd restaurant_page```.
 4. Run `npm install` command.
-5. Navigate to index.html and open the file with your desired browser to preview it.
+5. Run npm start to start your app.
 
 
 ## Contributors
